@@ -10,12 +10,8 @@ all custom designs or custom widgets are in <kdb> lib </kbd> folder,
 this app uses hive database to store and organize todo data, make sure you've latest flutter sdk version,
 visit flutter  main site, and make sure all dependencies are in place, in case erros run this command <kbd> flutter pub get</kbd> in your terminal space
 
-# VISUAL
-Solarized dark             |  Solarized Ocean         
-:-------------------------:|:-------------------------:
-![](1.png)  |  ![](2.png)
 
-# Desib
+# Visual 
 
 <table>
  <tr>

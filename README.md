@@ -11,7 +11,7 @@ this app uses hive database to store and organize todo data, make sure you've la
 visit flutter  main site, and make sure all dependencies are in place, in case erros run this command <kbd> flutter pub get</kbd> in your terminal space
 
 # VISUAL
-Solarized dark             |  Solarized Ocean
+Solarized dark             |  Solarized Ocean         |  Desig 
 :-------------------------:|:-------------------------:
 ![](1.png)  |  ![](2.png)
 

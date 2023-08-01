@@ -18,7 +18,11 @@ Solarized dark             |  Solarized Ocean
 # Desib
 
 <table>
- 
+ <tr>
+  <th>Main Page</th>
+  <th>Checks</th>
+  <th>Notify</th>
+ </tr>
   <tr>
     <td><img src="1.png" width=270 height=480></td>
     <td><img src="2.png" width=270 height=480></td>

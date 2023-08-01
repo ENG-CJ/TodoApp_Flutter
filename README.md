@@ -12,7 +12,7 @@ visit flutter  main site, and make sure all dependencies are in place, in case e
 
 # VISUAL
 <img src='./1.png' width="40%"/>
-
+<img src='./1.png' width="40%"/>
 # Help
 Email: abdulrahmandev10@gmail.com
 source: ENG-CJ
